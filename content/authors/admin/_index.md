@@ -22,8 +22,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Executive talent recruitment
+- Science fiction
+- Chinese calligraphy
 
 education:
   courses:
@@ -66,8 +67,6 @@ Aisi graduated from South-Central Minzu University, Ethnology Dept. Professional
 Aisi is now working in Tencent Inc, as a staffing manager for CSIG. Responsible for executive talent recruitment, including hiring consulting and people programs as well; 
 Aisi is always ready to corporate with other depts,and provide professional HR support, business driven and customer focused.Demonstrated experience with cross-functional collaboration and influencing.
 
-Aisi worked in Baidu Inc about five years, familiar with the perfect social recruitment and school recruitment process, with rich recruitment experience, can quickly understand the business;(support up to 1500+ business person-time,include Search Group&UXC（User Experience Center）,14 depts,related to Software Engineers,Algorithm Engineers,Product Manager,Designers,Business Development,etc);
+Aisi worked in Baidu Inc about five years, familiar with the perfect social recruitment and school recruitment process, with rich recruitment experience, can quickly understand the business;
 She was experienced in training courses development as well, helping establish interview skills training system in Baidu Search. 
 Strong self-drive, strong anti-pressure ability and learning ability, strong logical and communication skills,love challenges and embrace changes.
-
-In a conclusion,Aisi is experienced in recruiting for technology companies,experience in attracting candidates to exceed hiring targets,negotiating and influencing senior leaders on strategy to deliver on talent needs,client-service orientation.With effective interpersonal, teamwork and organizational skills.
