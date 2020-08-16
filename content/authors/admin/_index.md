@@ -31,6 +31,9 @@ education:
   - course: BSc in Ethnology
     institution:  South-Central Minzu University
     year: 2015
+  - course: BSc in Business Administration
+    institution:  Wuhan University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
