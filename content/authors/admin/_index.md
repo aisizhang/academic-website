@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Staffing Manager of Tencent
+role: Staffing Manager
 
 # Organizations/Affiliations
 organizations:
